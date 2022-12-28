@@ -1,0 +1,10 @@
+Player White Moved Pawn From 4.6 to 4.4
+Player Black Moved Pawn From 3.1 to 3.3
+Player White Moved Pawn From 2.6 to 2.4
+Player Black Moved Pawn From 2.1 to 2.3
+Player White Moved Pawn From 4.4 to 3.3
+Player Black Moved Pawn From 4.1 to 4.3
+Player White Moved Pawn From 3.6 to 3.5
+Player Black Moved Pawn From 5.1 to 5.3
+Player White Moved Pawn From 3.3 to 3.2
+White Surrender
